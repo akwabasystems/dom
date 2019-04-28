@@ -22,6 +22,14 @@ Published on [npmjs.com](https://www.npmjs.com) as `@akwaba/dom`.
 - `width(element)` - Returns the width of the given element
 
 
+### DOM Storage API
+
+- `storage.getStorage(element)` - Retrieves the storage entry for the given element
+- `storage.store(element, key, value)` - Stores a key/value pair of content for the given element
+- `storage.retrieve(element, key)` - Retrieves the value of the key specified in this element's storage unit
+
+
+
 ### Usage
 
 ```js

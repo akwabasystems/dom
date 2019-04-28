@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@akwaba/eslint-config": "^1.1.0",
-    "@akwaba/object-extensions": "^1.1.0",
+    "@akwaba/object-extensions": "^1.1.2",
     "@akwaba/html": "^1.0.1",
     "sizzle": "^2.3.4"
   },
