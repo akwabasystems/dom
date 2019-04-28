@@ -9,6 +9,7 @@ import matchesSelector      from "./src/matches-selector";
 import parents              from "./src/parents";
 import select               from "./src/select";
 import viewport             from "./src/viewport";
+import storage              from "./src/storage";
 
 export default {
     ancestors,
@@ -21,5 +22,6 @@ export default {
     matchesSelector,
     parents,
     select,
-    viewport
+    viewport,
+    storage
 };
