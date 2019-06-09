@@ -8,6 +8,7 @@ import height               from "./src/height";
 import matchesSelector      from "./src/matches-selector";
 import parents              from "./src/parents";
 import select               from "./src/select";
+import find                 from "./src/find";
 import viewport             from "./src/viewport";
 import storage              from "./src/storage";
 
@@ -22,6 +23,7 @@ export default {
     matchesSelector,
     parents,
     select,
+    find,
     viewport,
     storage
 };
