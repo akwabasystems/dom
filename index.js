@@ -2,6 +2,7 @@ import ancestors            from "./src/ancestors";
 import children             from "./src/children";
 import collect              from "./src/collect";
 import cumulativeOffset     from "./src/cumulative-offset";
+import positionedOffset     from "./src/positioned-offset";
 import dimensions           from "./src/dimensions";
 import width                from "./src/width";
 import height               from "./src/height";
@@ -17,6 +18,7 @@ export default {
     children,
     collect,
     cumulativeOffset,
+    positionedOffset,
     dimensions,
     width,
     height,
